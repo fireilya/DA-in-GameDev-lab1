@@ -35,12 +35,14 @@
 - ✨Magic ✨
 
 ## Цель работы
-Ознакомиться с работой в Anakonda, JupiterLab, Python, Unity, C# и Git.
+становить необходимое программное обеспечение, которое пригодится для создания интеллектуальных моделей на Python. Рассмотреть процесс установки игрового движка Unity для разработки игр.
 
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Ход работы:
 
+-Запустить JupiterNotebook
+-Создать файл формата ipynb
 -Использоать встроенную функцию консольного вывода "рrint" для вывода сообщения.
 
 ```py
@@ -51,7 +53,7 @@ print("Hello World!!!")
 ### Написать программу Hello World на C# с запуском на Unity.
 
 
-```C# Unity
+```cs
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -102,10 +104,7 @@ public class Hello_World : MonoBehaviour
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка)
-
-```py
-
-```
+Результат этого задания вы только что прочитали
 
 ## Выводы
 
@@ -113,7 +112,7 @@ public class Hello_World : MonoBehaviour
 В ходе лабораторной:
 
 1) Я научился работать с Anakonda
-2) Я смог запустить Hello World в JupiterLab
+2) Я смог запустить Hello World в JupiterNotebook
 3) Я создал скрипт, который заставляет любой объект в Unity, с учётом прикрепления к нему скрипт-файла, писать в консоль "Hello World" по нажатию клавиши
 4) Я разобрался как клонировать репозитории на Git.
 
